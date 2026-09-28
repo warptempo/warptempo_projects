@@ -1,0 +1,14 @@
+# backups
+*~
+*.bak
+
+# the app's working files, the audio and the renders never go to GitHub
+projects/*/*.fingerprint
+projects/*/*.peaks
+projects/*/*.wav
+projects/*/peaks/
+projects/*/render/
+projects/*/score/
+projects/*/tmp/
+projects/*/wt*
+projects/*test
