@@ -5,17 +5,17 @@ notes=Hummel: minim = 108 in 2/2 (216 bpm); Grodd: minim = 112.5 in 2/2 (225 bpm
 url=https://music.youtube.com/watch?v=f10ISOkJZuA
 cover=Koyaanisqatsi (1982)
 active_audio_view=T
-active_markers_view=W
-active_tab_view=B
+active_markers_view=P
+active_tab_view=A
 tab_a_trim_begin=0
 tab_a_trim_end=6460906
-tab_a_read_only=true
-tab_a_viewport_start=2139184
-tab_a_zoom=2
-tab_a_playhead_cursor=2191067
+tab_a_read_only=false
+tab_a_viewport_start=2712261
+tab_a_zoom=4.6728560524425236
+tab_a_playhead_cursor=2921446
 tab_b_trim_begin=8088160
 tab_b_trim_end=9123688
-tab_b_read_only=false
-tab_b_viewport_start=6799277
-tab_b_zoom=4.026122485632185
-tab_b_playhead_cursor=6351694
+tab_b_read_only=true
+tab_b_viewport_start=2452025
+tab_b_zoom=2
+tab_b_playhead_cursor=2503913
