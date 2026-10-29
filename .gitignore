@@ -9,6 +9,7 @@ projects/*/*.wav
 projects/*/peaks/
 projects/*/render/
 projects/*/score/
+projects/*/trim/
 projects/*/tmp/
 projects/*/wt*
 projects/*test
