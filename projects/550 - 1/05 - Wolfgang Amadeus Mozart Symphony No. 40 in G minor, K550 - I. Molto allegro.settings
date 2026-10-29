@@ -4,18 +4,18 @@ bpm=36 beats @ 219 bpm from 00:02.510 to 00:15.046
 notes=Hummel: minim = 108 in 2/2 (216 bpm); warptempo: minim = 109.5 in 2/2 (219 bpm)
 url=https://music.youtube.com/watch?v=f10ISOkJZuA
 cover=Koyaanisqatsi (1982)
-active_audio_view=T
+active_audio_view=S
 active_markers_view=W
 active_tab_view=B
 tab_a_trim_begin=0
 tab_a_trim_end=6538357
 tab_a_read_only=true
-tab_a_viewport_start=4870940
+tab_a_viewport_start=6228495
 tab_a_zoom=2
-tab_a_playhead_cursor=4922839
-tab_b_trim_begin=12843886
-tab_b_trim_end=16671851
+tab_a_playhead_cursor=6280394
+tab_b_trim_begin=12746083
+tab_b_trim_end=16826688
 tab_b_read_only=false
-tab_b_viewport_start=11398813
-tab_b_zoom=4.305064655172413
-tab_b_playhead_cursor=11615815
+tab_b_viewport_start=0
+tab_b_zoom=9.937941471997934
+tab_b_playhead_cursor=1764084
